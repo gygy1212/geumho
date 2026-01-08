@@ -34,7 +34,7 @@ header{
     white-space: nowrap;
 }
 
-.gnb > a li{
+.gnb li a{
     color: white;
     font-weight: 700;
 }
